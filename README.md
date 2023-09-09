@@ -1,2 +1,2 @@
 # hunter
-movie streaming apk
+movie streaming apk {only for learning purpose}
